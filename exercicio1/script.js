@@ -22,5 +22,5 @@ sacolao.produtos = [
     preco:10,
     quantidadeEstoque:3},
 ]
-sacolao.produtos.push
-console.log(sacolao)
+sacolao.produtos.push()
+console.log(sacolao);
